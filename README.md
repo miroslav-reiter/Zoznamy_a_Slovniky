@@ -54,6 +54,7 @@ presnosť : presnosť zemepisnej šírky/dĺžky od 1=odhad, 4=geonameid, 6=ťa�
 - Pre Brazíliu sú k dispozícii iba hlavné poštové smerovacie čísla (iba smerovacie čísla končiace na -000 a hlavné smerovacie číslo pre obec).
 
 ## 💭 Anglický zoznam slov/slovník
+Počet slov: 62996  
   
 ## 👅 Slovenský zoznam slov/slovník
 A. Podstatné mená: 24891  
