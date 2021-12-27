@@ -4,7 +4,11 @@ Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný,
 ## 📬 Zoznam Poštové Smerové Čísla (PSČ a ZIP)
 ### Zdroj GeoNames
 
-allCountries.zip: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy, celkové kódy Spojeného kráľovstva sú v GB_full.csv.zip 
+* Obcí (najmenšia administratívna jednotka): 1 548 344
+
+Súbor `allCountries.zip`: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy, celkové kódy Spojeného kráľovstva sú v GB_full.csv.zip 
+Súbor `Zoznam_Vsetkych_Krajin_Miest_Orezany.xlsx`: skoro všetky krajiny sveta (orezané v dôsledku obmedzenia počtu riadko v Exceli 1 048 576)
+
 GB_full.csv.zip úplné kódy pre Spojené kráľovstvo, približne 1,7 milióna riadkov
 <iso countrycode>: podmnožina špecifická pre krajinu je tiež zahrnutá v allCountries.zip
 Toto dielo podlieha licencii Creative Commons Attribution 4.0 License.
@@ -53,6 +57,11 @@ presnosť : presnosť zemepisnej šírky/dĺžky od 1=odhad, 4=geonameid, 6=ťa�
 - Dátový súbor pre Argentínu obsahuje prvých 5 pozícií PSČ.
 - Pre Brazíliu sú k dispozícii iba hlavné poštové smerovacie čísla (iba smerovacie čísla končiace na -000 a hlavné smerovacie číslo pre obec).
 
+## Zoznam Slovenských Obcí (Villages), Okresov (Districts) a Krajov (Regions)  
+A. Obcí (1. najmenšia administratívna jednotka Slovenska): 4208
+B. Okresov (2. najmenšia administratívna jednotka Slovenska): 79
+C. Krajov (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8
+  
 ## 💭 Anglický zoznam slov/slovník
 Počet slov: 62996  
   
@@ -76,4 +85,6 @@ C. Slovesá: 13955
 12. [PC Translator 2010 - slovník a prekladač](http://www.teos.sk/translat.htm) - Platené, najväčší slovenský slovník, vyvíja sa viac ako 23 rokov
 13. [Gunsoft - Obce, okresy a kraje v SR](https://github.com/gunsoft/obce-okresy-kraje-slovenska) - Licencia **GPL-2.0**
 14. [BramboraSK - Slovník slovenského jazyka](https://github.com/BramboraSK/slovnik-slovenskeho-jazyka) - Licencia **GPL-2.0**
-  
+15. [Zoznam okresov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Okres_(Slovensko))
+16. [Zoznam krajov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Zoznam_krajov_na_Slovensku)
+17. [Zoznam obcí a vojenských obvodov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov)
