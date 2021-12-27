@@ -1,12 +1,12 @@
 # ☑️ Zoznamy a Slovníky
-Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre PSČ a ZIP kódy obcí všetkých krajín sveta. Súbory majú kódovanie UTF-8.
+Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre **PSČ** a **ZIP kódy** obcí všetkých krajín sveta. Súbory majú kódovanie **UTF-8**.
 
 ## 📬 Zoznam Poštové Smerové Čísla (PSČ a ZIP)
 ### Zdroj GeoNames (Licencia Creative Commons Attribution 4.0)
 
-* Obcí celosvetovo (najmenšia administratívna jednotka): 1 548 344
-* Obcí na Slovensku (najmenšia administratívna jednotka): 4 231
-* Podporované krajiny: podporovaných takmer 100 krajín
+* Obcí celosvetovo: 1 548 344
+* Obcí na Slovensku: 4 231
+* Podporované krajiny: takmer 100 krajín
 
 Súbor `allCountries.zip`: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy  
 Súbor `Zoznam_Vsetkych_Krajin_Miest_Orezany.xlsx`: skoro všetky krajiny sveta (orezané pre obmedzenie v Exceli: 1 048 576)  
@@ -45,18 +45,22 @@ Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamen
 - Pre Brazíliu sú k dispozícii iba hlavné poštové smerovacie čísla (iba smerovacie čísla končiace na -000 a hlavné smerovacie číslo pre obec).
 
 ## Zoznam Slovenských Obcí (Villages), Okresov (Districts) a Krajov (Regions)  
-A. Obcí (1. najmenšia administratívna jednotka Slovenska): 4208  
-B. Okresov (2. najmenšia administratívna jednotka Slovenska): 79  
-C. Krajov (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8  
+A. Obce (1. najmenšia administratívna jednotka Slovenska): 4 208/3 791 (Slovenská pošta 2021)     
+B. Okresy (2. najmenšia administratívna jednotka Slovenska): 79/76 (Slovenská pošta 2021)  
+C. Kraje (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8  
+D. Pošty: 1 209 (Slovenská pošta 2021)
+E. Ulice: 10 452
+F. POBOXy:
+G. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)
   
 ## 💭 Anglický zoznam slov/slovník
-Počet slov: 62996  
+Počet slov: 62 996  
   
 ## 👅 Slovenský zoznam slov/slovník
 A. Podstatné mená: 24 891    
 B. Prídavné mená: 14 691    
 C. Slovesá: 13 955    
-D. Všetkt slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
+D. Všetky slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
 
 ## 📚 Dôležité zdroje
 1. [Sk-spell](http://sk-spell.sk.cx/ispell-sk) - Licencie **GPL (v2)**, LGPL (v2.1) a MPL (1.1)
