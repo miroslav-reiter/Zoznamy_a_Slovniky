@@ -54,7 +54,11 @@ presnosť : presnosť zemepisnej šírky/dĺžky od 1=odhad, 4=geonameid, 6=ťa�
 - Pre Brazíliu sú k dispozícii iba hlavné poštové smerovacie čísla (iba smerovacie čísla končiace na -000 a hlavné smerovacie číslo pre obec).
 
 ## 💭 Anglický zoznam slov/slovník
-
+  
+## 👅 Slovenský zoznam slov/slovník
+A. Podstatné mená: 24891  
+B. Prídavné mená: 14691  
+C. Slovesá: 13955  
 
 ## 📚 Dôležité zdroje
 1. [Sk-spell](http://sk-spell.sk.cx/ispell-sk) - Licencie **GPL (v2)**, LGPL (v2.1) a MPL (1.1)
@@ -69,6 +73,6 @@ presnosť : presnosť zemepisnej šírky/dĺžky od 1=odhad, 4=geonameid, 6=ťa�
 10. [ARES Administrativní registr ekonomických subjektů](https://wwwinfo.mfcr.cz/ares/ares_es.html.cz) - Verejne poskytuje **Ministerstva financí ČR**
 11. [Elektronické služby SR](https://portal.minv.sk/wps/wcm/connect/sk/site/main/ohlasovne/) - verejne poskytuje **Ministerstvo vnútra SR**
 12. [PC Translator 2010 - slovník a prekladač](http://www.teos.sk/translat.htm) - Platené, najväčší slovenský slovník, vyvíja sa viac ako 23 rokov
-13. [Gunsoft - Obce, okresy a kraje v SR](https://github.com/gunsoft/obce-okresy-kraje-slovenska)
-14. [BramboraSK - Slovník slovenského jazyka](https://github.com/BramboraSK/slovnik-slovenskeho-jazyka)
+13. [Gunsoft - Obce, okresy a kraje v SR](https://github.com/gunsoft/obce-okresy-kraje-slovenska) - Licencia **GPL-2.0**
+14. [BramboraSK - Slovník slovenského jazyka](https://github.com/BramboraSK/slovnik-slovenskeho-jazyka) - Licencia **GPL-2.0**
   
