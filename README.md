@@ -19,8 +19,7 @@ Súbor `GB_full.csv.zip`: Dáta pre Spojené kráľovstvo (úplné kódy), pribl
 
 Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamená, že výpis môžete používať, pokiaľ dáte meno geonames (odkaz na vašej webovej stránke www.geonames.org je v poriadku) pozri http://creativecommons.org/licenses/by/3.0/. Údaje sa poskytujú „tak ako sú“ bez záruky alebo akéhokoľvek vyjadrenia presnosti, aktuálnosti alebo úplnosti. V mnohých krajinách sa zemepisná šírka/dĺžka určuje pomocou algoritmu, ktorý vyhľadáva názvy miest v hlavnej databáze geonázvov použitie administratívneho členenia a číselnej blízkosti poštových smerovacích čísel ako faktorov pri vyjasňovaní názvov miest. Pre poštové smerovacie čísla a názov miesta, pre ktoré nebolo možné nájsť žiadne zodpovedajúce toponymum v hlavnej databáze geografických mien, priemer zemepisná šírka/dĺžka „susedných“ poštových smerovacích čísel.
 
-**📇 Štruktúra dát:**
-**Formát údajov** je text oddelený tabulátormi v kódovaní utf8 s nasledujúcimi poliami/**Hlavičkou** (header):
+**📇 Štruktúra dát a Formát údajov** je text oddelený tabulátormi v kódovaní utf8 s nasledujúcimi poliami/**Hlavičkou** (header):
   1. **Kód krajiny** (country code): ISO kód krajiny, 2 znaky  
   2. PSČ (postal code): varchar(20)  
   3. **Názov miesta** (place name): varchar(180)  
@@ -72,7 +71,7 @@ Počet slov: 62 996
 A. **Podstatné mená**: **24 891**   
 B. Prídavné mená: 14 691    
 C. **Slovesá**: **13 955**  
-D. Všetky slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
+D. Všetky slová (Zdroj: [ispell](http://sk-spell.sk.cx/ispell-sk), súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
 
 ## 📚 Dôležité zdroje
 1. [Sk-spell](http://sk-spell.sk.cx/ispell-sk) - Licencie **GPL (v2)**, LGPL (v2.1) a MPL (1.1)
