@@ -53,9 +53,10 @@ C. Krajov (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8
 Počet slov: 62996  
   
 ## 👅 Slovenský zoznam slov/slovník
-A. Podstatné mená: 24891    
-B. Prídavné mená: 14691    
-C. Slovesá: 13955    
+A. Podstatné mená: 24 891    
+B. Prídavné mená: 14 691    
+C. Slovesá: 13 955    
+D. Všetko slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
 
 ## 📚 Dôležité zdroje
 1. [Sk-spell](http://sk-spell.sk.cx/ispell-sk) - Licencie **GPL (v2)**, LGPL (v2.1) a MPL (1.1)
