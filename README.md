@@ -24,14 +24,14 @@ Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamen
   * **Kód krajiny** (country code): ISO kód krajiny, 2 znaky  
   * PSČ (postal code): varchar(20)  
   * **Názov miesta** (place name): varchar(180)  
-  * Admin name1: 1. poradie subdivision (štát/state) varchar(100)  
-  * **Admin code1**: 1. poradie pododdiel (štát/state) varchar(20)  
-  * Admin name2: 2. poradie subdivízia (kraj/provincia) varchar(100)  
-  * **Admin code2**: 2. poradie subdivízia (kraj/provincia) varchar(20)  
-  * Admin name3: 3. poradie pododdelenie (komunita) varchar(100)  
-  * **Admin code3**: 3. poradie pododdiel (komunita) varchar(20)  
-  * Zemepisná šírka (latitude): odhadovaná zemepisná šírka 
-  * **Zemepisná dĺžka** (longitude): odhadovaná zemepisná dĺžka 
+  * Admin name1: 1. poradie name (štát/state) varchar(100)  
+  * **Admin code1**: 1. poradie code (štát/state) varchar(20)  
+  * Admin name2: 2. poradie name (kraj/provincia) varchar(100)  
+  * **Admin code2**: 2. poradie code (kraj/provincia) varchar(20)  
+  * Admin name3: 3. poradie name (komunita) varchar(100)  
+  * **Admin code3**: 3. poradie code (komunita) varchar(20)  
+  * Zemepisná šírka (latitude)
+  * **Zemepisná dĺžka** (longitude)
   * Presnosť (accuracy): presnosť zemepisnej šírky/dĺžky from 1=estimated, 4=geonameid, 6=centroid of addresses or shape
 
 #### Poznámky
