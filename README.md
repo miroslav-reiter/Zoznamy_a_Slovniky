@@ -1,5 +1,5 @@
 # ☑️ Zoznamy a Slovníky
-Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre PSč a ZIP kódy obcí všetkých krajín sveta.
+Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre PSČ a ZIP kódy obcí všetkých krajín sveta.
 
 ## 📬 Zoznam Poštové Smerové Čísla (PSČ a ZIP)
 ### Zdroj GeoNames (Licencia Creative Commons Attribution 4.0)
@@ -15,7 +15,7 @@ Súbor `CZ.txt`: Dáta pre Česko
 Súbor `DE.txt`: Dáta pre Nemecko  
 Súbor `ES.txt`: Dáta pre Španielsko  
 Súbor `HU.txt`: Dáta pre Maďarsko  
-Súbor `GB_full.csv.zip `: Dáta pre Spojené kráľovstvo (úplné kódy), približne 1,7 milióna riadkov  
+Súbor `GB_full.csv.zip`: Dáta pre Spojené kráľovstvo (úplné kódy), približne 1,7 milióna riadkov  
 
 Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamená, že výpis môžete používať, pokiaľ dáte meno geonames (odkaz na vašej webovej stránke www.geonames.org je v poriadku) pozri http://creativecommons.org/licenses/by/3.0/. Údaje sa poskytujú „tak ako sú“ bez záruky alebo akéhokoľvek vyjadrenia presnosti, aktuálnosti alebo úplnosti. V mnohých krajinách sa zemepisná šírka/dĺžka určuje pomocou algoritmu, ktorý vyhľadáva názvy miest v hlavnej databáze geonázvov použitie administratívneho členenia a číselnej blízkosti poštových smerovacích čísel ako faktorov pri vyjasňovaní názvov miest. Pre poštové smerovacie čísla a názov miesta, pre ktoré nebolo možné nájsť žiadne zodpovedajúce toponymum v hlavnej databáze geografických mien, priemer zemepisná šírka/dĺžka „susedných“ poštových smerovacích čísel.
 
