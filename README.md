@@ -20,18 +20,18 @@ Súbor `GB_full.csv.zip `: Dáta pre Spojené kráľovstvo (úplné kódy), prib
 Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamená, že výpis môžete používať, pokiaľ dáte meno geonames (odkaz na vašej webovej stránke www.geonames.org je v poriadku) pozri http://creativecommons.org/licenses/by/3.0/. Údaje sa poskytujú „tak ako sú“ bez záruky alebo akéhokoľvek vyjadrenia presnosti, aktuálnosti alebo úplnosti. V mnohých krajinách sa zemepisná šírka/dĺžka určuje pomocou algoritmu, ktorý vyhľadáva názvy miest v hlavnej databáze geonázvov použitie administratívneho členenia a číselnej blízkosti poštových smerovacích čísel ako faktorov pri vyjasňovaní názvov miest. Pre poštové smerovacie čísla a názov miesta, pre ktoré nebolo možné nájsť žiadne zodpovedajúce toponymum v hlavnej databáze geografických mien, priemer zemepisná šírka/dĺžka „susedných“ poštových smerovacích čísel.
 
 **Štruktúra dát:**
-* Formát údajov je text oddelený tabulátormi v kódovaní utf8 s nasledujúcimi poliami/Hlavičkou (header):
-  * Kód krajiny (country code): ISO kód krajiny, 2 znaky  
+* **Formát údajov** je text oddelený tabulátormi v kódovaní utf8 s nasledujúcimi poliami/**Hlavičkou** (header):
+  * **Kód krajiny** (country code): ISO kód krajiny, 2 znaky  
   * PSČ (postal code): varchar(20)  
-  * Názov miesta (place name): varchar(180)  
+  * **Názov miesta** (place name): varchar(180)  
   * Admin name1: 1. poradie subdivision (štát/state) varchar(100)  
-  * Admin code1: 1. poradie pododdiel (štát/state) varchar(20)  
+  * **Admin code1**: 1. poradie pododdiel (štát/state) varchar(20)  
   * Admin name2: 2. poradie subdivízia (kraj/provincia) varchar(100)  
-  * Admin code2: 2. poradie subdivízia (kraj/provincia) varchar(20)  
+  * **Admin code2**: 2. poradie subdivízia (kraj/provincia) varchar(20)  
   * Admin name3: 3. poradie pododdelenie (komunita) varchar(100)  
-  * Admin code3: 3. poradie pododdiel (komunita) varchar(20)  
+  * **Admin code3**: 3. poradie pododdiel (komunita) varchar(20)  
   * Zemepisná šírka (latitude): odhadovaná zemepisná šírka 
-  * Zemepisná dĺžka (longitude): odhadovaná zemepisná dĺžka 
+  * **Zemepisná dĺžka** (longitude): odhadovaná zemepisná dĺžka 
   * Presnosť (accuracy): presnosť zemepisnej šírky/dĺžky from 1=estimated, 4=geonameid, 6=centroid of addresses or shape
 
 #### Poznámky
