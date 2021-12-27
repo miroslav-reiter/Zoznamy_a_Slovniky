@@ -49,9 +49,10 @@ A. Obce (1. najmenšia administratívna jednotka Slovenska): 4 208/3 791 (Sloven
 B. Okresy (2. najmenšia administratívna jednotka Slovenska): 79/76 (Slovenská pošta 2021)  
 C. Kraje (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8  
 D. Pošty: 1 209 (Slovenská pošta 2021)
-E. Ulice: 10 452
-F. POBOXy:
-G. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)
+E. Ulice: 10 554 (Slovenská pošta 2021)
+F. Uliče jedinečné cca: 6 384 (Slovenská pošta 2021)
+G. POBOXy:
+H. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)
   
 ## 💭 Anglický zoznam slov/slovník
 Počet slov: 62 996  
