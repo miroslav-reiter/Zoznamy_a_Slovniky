@@ -8,7 +8,7 @@ Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný,
 * Obcí na Slovensku (najmenšia administratívna jednotka): 4 231
 * Podporované krajiny: podporovaných takmer 100 krajín
 
-Súbor `allCountries.zip`: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy
+Súbor `allCountries.zip`: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy  
 Súbor `Zoznam_Vsetkych_Krajin_Miest_Orezany.xlsx`: skoro všetky krajiny sveta (orezané pre obmedzenie v Exceli: 1 048 576)  
 Súbor `SK.txt`: Dáta pre Slovensko  
 Súbor `CZ.txt`: Dáta pre Česko  
