@@ -53,7 +53,8 @@ F. Uliče jedinečné cca: 6 384 (Slovenská pošta 2021)
 G. **POBOXy**: **13 790** (Slovenská pošta 2021)  
 H. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)  
 
-| ID_Kraj | Kraj | ISO_3166 | Obyvatelov | Rozloha | Hustota Obyv | Obci | Miest | Okresov | Okresy
+### Zoznam slovenských krajov
+| ID_Kraj | Kraj | ISO_3166 | Obyvatelov | Rozloha | Hustota_Obyv | Obci | Miest | Okresov | Okresy
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | 1 | **Bratislavský** | SK-BL |	677 024 |	2 052,5 |	330 |	73	 |7 |	8	| Bratislava I, Bratislava II, Bratislava III, Bratislava IV, Bratislava V, Malacky, Pezinok, Senec |
 | 2 | **Trnavský** |	SK-TA |	565 324	| 4 146,6 |	136 |	251 |	17 |	7 |	Dunajská Streda, Galanta, Hlohovec, Piešťany, Senica, Skalica, Trnava |
@@ -63,7 +64,26 @@ H. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a v
 | 6 | Banskobystrický	| SK-BC	| 643 102 |	9 454,4 |	68 |	516 |	24 |	13 |	Banská Bystrica, Banská Štiavnica, Brezno, Detva, Krupina, Lučenec, Poltár, Revúca, Rimavská Sobota, Veľký Krtíš, Zvolen, Žarnovica, Žiar nad Hronom |
 | 7 | Prešovský	| SK-PV	| 827 028 |	8 973,9 |	92 |	665 |	23 |	13 |	Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou |
 | 8 | **Košický**	| SK-KI	| 802 092 |	6 754,5 |	119 |	440 |	17 |	11 | Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov |
-  
+
+### Zoznam vybraných slovenských okresov
+| ID_Kraj | Okres | ECV | Kod | Kraj | Pocet_Obyv | Zien | Rozloha | Hustota_Obyv | Obci | Miest |
+| --------------- | --------------- | --------------- |  --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| 1 | Banská Bystrica	 | BB, BC, BK	| 601 |	Banskobystrický	| 110 631 |	52,4	| 809,4	| 137 |	42 |	1 |
+| 2 | Bratislava I	| BA, BL, BT, BD, BE, BI |	101	|Bratislavský |	42 546 |	53,8 |	9,6 |	4 436 |  | |
+| 3 | Bratislava II	| BA, BL, BT, BD, BE, BI |	102	|Bratislavský |	116 669 |	54,2 |	92,5 |	1 261 |  | |
+| 4 | Bratislava III	| BA, BL, BT, BD, BE, BI |	103	|Bratislavský |	70 641|	53,7 |	74,7 |	946 |  | |
+| 5 | Bratislava IV	| BA, BL, BT, BD, BE, BI |	104	|Bratislavský |	98 404 |	52,8 |	96,7 |	1 018 |  | |
+| 6 | Bratislava V	| BA, BL, BT, BD, BE, BI |	105	|Bratislavský |	112 688 |	52,1 |	94,2 |	1 196 |  | |
+| 7 | Košice I |	KE, KC, KI |	802 |	Košický	 | 67 421 |	52,9 |	85,4 |	789	 | | |
+| 8 | Košice II |	KE, KC, KI |	803 |	Košický	 | 82 115	| 51,9 |	73,9 |	1 112	 | | |
+| 9 | Košice III |	KE, KC, KI |	804 |	Košický	 | 28 535 |	51,4 |	16,9 |	1 693	 | | |
+| 10 | Košice IV |	KE, KC, KI |	805 |	Košický	 | 60 067	| 52,7 |	60,9 |	986 | | |
+| 11 | Žilina  |ZA, ZI, ZL	| 511 |	Žilinský |	158 456 |	51,4 |	815,1 |	194 |	53 |	3 | |
+| 12 | Trnava | TT, TA, TB |	207 |	Trnavský |	133 154 |	51,3 |	741,3 |	180	| 45 |	1 | |
+| 13 | Prešov	| PO, PV, PS	| 707 |	Prešovský |	176 781 |	51,3 |	933,7 |	189	| 91 |	2 | |
+| 14 | Nitra |	NR, NI, NT |	403 |	Nitriansky |	161 499 |	51,7 |	870,7	| 185	| 62 |	2 | |
+| 15 | Trenčín |	TN, TC, TE |	309 |	Trenčiansky |	114 837	| 51,3 |	674,8 |	170 |	37 |	3 | |
+
 ## 💭 Anglický zoznam slov/slovník
 Počet slov: 62 996  
   
