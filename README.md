@@ -1,5 +1,5 @@
 # ☑️ Zoznamy a Slovníky
-Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre PSČ a ZIP kódy obcí všetkých krajín sveta.
+Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný, cudzích slov, slang/vulgarizmy, archaizmy) a pre rôzne jazyky (ENG, LAT, CZ, SK, ESP, DE). Zoznamy pre PSČ a ZIP kódy obcí všetkých krajín sveta. Súbory majú kódovanie UTF-8.
 
 ## 📬 Zoznam Poštové Smerové Čísla (PSČ a ZIP)
 ### Zdroj GeoNames (Licencia Creative Commons Attribution 4.0)
