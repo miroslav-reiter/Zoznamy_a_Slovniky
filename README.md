@@ -4,9 +4,9 @@ Rôzne zoznamy a slovníky (všeobecný, synonymický, frazeologický, odborný,
 ## 📬 Zoznam Poštové Smerové Čísla (PSČ a ZIP)
 ### Zdroj GeoNames (Licencia Creative Commons Attribution 4.0)
 
-* Obcí celosvetovo: 1 548 344
+* **Obcí celosvetovo**: **1 548 344**
 * Obcí na Slovensku: 4 231
-* Podporované krajiny: takmer 100 krajín
+* **Podporované krajiny**: **takmer 100 krajín**
 
 Súbor `allCountries.zip`: všetky podporované krajiny, pre Spojené kráľovstvo iba vonkajšie kódy  
 Súbor `Zoznam_Vsetkych_Krajin_Miest_Orezany.xlsx`: skoro všetky krajiny sveta (orezané pre obmedzenie v Exceli: 1 048 576)  
@@ -19,7 +19,7 @@ Súbor `GB_full.csv.zip`: Dáta pre Spojené kráľovstvo (úplné kódy), pribl
 
 Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamená, že výpis môžete používať, pokiaľ dáte meno geonames (odkaz na vašej webovej stránke www.geonames.org je v poriadku) pozri http://creativecommons.org/licenses/by/3.0/. Údaje sa poskytujú „tak ako sú“ bez záruky alebo akéhokoľvek vyjadrenia presnosti, aktuálnosti alebo úplnosti. V mnohých krajinách sa zemepisná šírka/dĺžka určuje pomocou algoritmu, ktorý vyhľadáva názvy miest v hlavnej databáze geonázvov použitie administratívneho členenia a číselnej blízkosti poštových smerovacích čísel ako faktorov pri vyjasňovaní názvov miest. Pre poštové smerovacie čísla a názov miesta, pre ktoré nebolo možné nájsť žiadne zodpovedajúce toponymum v hlavnej databáze geografických mien, priemer zemepisná šírka/dĺžka „susedných“ poštových smerovacích čísel.
 
-**Štruktúra dát:**
+**📇 Štruktúra dát:**
 **Formát údajov** je text oddelený tabulátormi v kódovaní utf8 s nasledujúcimi poliami/**Hlavičkou** (header):
   1. **Kód krajiny** (country code): ISO kód krajiny, 2 znaky  
   2. PSČ (postal code): varchar(20)  
@@ -34,7 +34,7 @@ Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamen
   11. **Zemepisná dĺžka** (longitude)
   12. Presnosť (accuracy): presnosť zemepisnej šírky/dĺžky from 1=estimated, 4=geonameid, 6=centroid of addresses or shape
 
-#### Poznámky
+#### ℹ️ Poznámky
 * 1° zemepisnej šírky (latitude) = 111 km   
 * 1° zemepisnej dĺžky (longitude) = 73/111 km  
   
@@ -44,23 +44,23 @@ Toto dielo podlieha licencii Creative Commons Attribution 4.0 License. To znamen
 - Dátový súbor pre Argentínu obsahuje prvých 5 pozícií PSČ.
 - Pre Brazíliu sú k dispozícii iba hlavné poštové smerovacie čísla (iba smerovacie čísla končiace na -000 a hlavné smerovacie číslo pre obec).
 
-## Zoznam Slovenských Obcí (Villages), Okresov (Districts) a Krajov (Regions)  
-A. Obce (1. najmenšia administratívna jednotka Slovenska): 4 208/3 791 (Slovenská pošta 2021)     
-B. Okresy (2. najmenšia administratívna jednotka Slovenska): 79/76 (Slovenská pošta 2021)  
-C. Kraje (3. najmenšia (najväčšia) administratívna jednotka Slovenska): 8  
-D. Pošty: 1 209 (Slovenská pošta 2021)
-E. Ulice: 10 554 (Slovenská pošta 2021)
-F. Uliče jedinečné cca: 6 384 (Slovenská pošta 2021)
-G. POBOXy:
-H. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)
+## 🏙️ Zoznam Slovenských Obcí (Villages), Okresov (Districts) a Krajov (Regions)  
+A. **Obce** (1. najmenšia administratívna jednotka Slovenska): **4 208/3 791** (Slovenská pošta 2021)      
+B. Okresy (2. najmenšia administratívna jednotka Slovenska): 79/76 (Slovenská pošta 2021)   
+C. **Kraje** (3. najmenšia (najväčšia) administratívna jednotka Slovenska): **8**   
+D. Pošty: 1 209 (Slovenská pošta 2021)  
+E. **Ulice**: **10 554** (Slovenská pošta 2021)  
+F. Uliče jedinečné cca: 6 384 (Slovenská pošta 2021)  
+G. **POBOXy**: **13 790 **(Slovenská pošta 2021)  
+H. PSČ: 1 285 (Niektoré obce môžu byť bez uličného systéme alebo s 2 a viac PSČ)  
   
 ## 💭 Anglický zoznam slov/slovník
 Počet slov: 62 996  
   
 ## 👅 Slovenský zoznam slov/slovník
-A. Podstatné mená: 24 891    
+A. **Podstatné mená**: **24 891**   
 B. Prídavné mená: 14 691    
-C. Slovesá: 13 955    
+C. **Slovesá**: **13 955**  
 D. Všetky slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 835
 
 ## 📚 Dôležité zdroje
@@ -80,4 +80,4 @@ D. Všetky slová (Zdroj: ispell, súbor: `Zoznam_SK_Vsetko_ispell.txt`): 175 83
 14. [BramboraSK - Slovník slovenského jazyka](https://github.com/BramboraSK/slovnik-slovenskeho-jazyka) - Licencia **GPL-2.0**
 15. [Zoznam okresov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Okres_(Slovensko)) - Licencia **Creative Commons Attribution/Share-Alike License 3.0 Unported**
 16. [Zoznam krajov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Zoznam_krajov_na_Slovensku) - Licencia **Creative Commons Attribution/Share-Alike License 3.0 Unported**
-17. [Zoznam obcí a vojenských obvodov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov) - Licencia C**reative Commons Attribution/Share-Alike License 3.0 Unported**
+17. [Zoznam obcí a vojenských obvodov Slovensko Wikipedia](https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov) - Licencia **Creative Commons Attribution/Share-Alike License 3.0**
